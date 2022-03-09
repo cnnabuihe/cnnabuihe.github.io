@@ -1,0 +1,9 @@
+name: Homework 7-2
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - bqplot
